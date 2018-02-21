@@ -1,0 +1,102 @@
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cbquizbowl.github.io" resolutions="1x" timestamp="1519257368740">
+  <folder name="css">
+    <file name="site_global.css" crc="4140763484"/>
+    <file name="master_a-master.css" crc="4140914638" ref="index:how-to-play:about-us:calendar:tips-and-tricks:media:updates:contact:links:quizbowl"/>
+    <file name="index.css" crc="343863680" ref="index"/>
+    <file name="iefonts_index.css" crc="417720106" ref="index"/>
+    <file name="how-to-play.css" crc="4042087151" ref="how-to-play"/>
+    <file name="about-us.css" crc="3941173417" ref="about-us"/>
+    <file name="iefonts_about-us.css" crc="501668309" ref="about-us"/>
+    <file name="calendar.css" crc="176406232" ref="calendar"/>
+    <file name="iefonts_calendar.css" crc="74823751" ref="calendar"/>
+    <file name="tips-and-tricks.css" crc="4224756470" ref="tips-and-tricks"/>
+    <file name="iefonts_tips-and-tricks.css" crc="4102791431" ref="tips-and-tricks"/>
+    <file name="media.css" crc="295583913" ref="media"/>
+    <file name="iefonts_media.css" crc="270496433" ref="media"/>
+    <file name="updates.css" crc="4093004411" ref="updates"/>
+    <file name="iefonts_updates.css" crc="4058663864" ref="updates"/>
+    <file name="contact.css" crc="120714842" ref="contact"/>
+    <file name="iefonts_contact.css" crc="6755805" ref="contact"/>
+    <file name="links.css" crc="3895170153" ref="links"/>
+    <file name="iefonts_links.css" crc="14403320" ref="links"/>
+    <file name="quizbowl.css" crc="4072262307" ref="quizbowl"/>
+    <file name="iefonts_quizbowl.css" crc="4053336285" ref="quizbowl"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-us:media:quizbowl:how-to-play:tips-and-tricks:links:updates:calendar:contact"/>
+    <file name="museutils.js" crc="46400467" ref="index:about-us:media:quizbowl:how-to-play:tips-and-tricks:links:updates:calendar:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-us:media:quizbowl:how-to-play:tips-and-tricks:links:updates:calendar:contact"/>
+    <file name="museconfig.js" crc="436936948" ref="index:about-us:media:quizbowl:how-to-play:tips-and-tricks:links:updates:calendar:contact"/>
+    <file name="webpro.js" crc="4152390327" ref="index:about-us:media:contact"/>
+    <file name="musewpslideshow.js" crc="380562115" ref="index:about-us:media:contact"/>
+    <file name="jquery.museoverlay.js" crc="3986278607" ref="index:about-us:media:contact"/>
+    <file name="touchswipe.js" crc="4228958816" ref="index:about-us:media:contact"/>
+    <file name="jquery.musemenu.js" crc="3936200140" ref="index:about-us:media:quizbowl:how-to-play:tips-and-tricks:links:updates:calendar:contact"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="index:about-us:media:quizbowl:how-to-play:tips-and-tricks:links:updates:calendar:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about-us:media:quizbowl:how-to-play:tips-and-tricks:links:updates:calendar:contact"/>
+    <file name="require.js" crc="85721165" ref="index:about-us:media:quizbowl:how-to-play:tips-and-tricks:links:updates:calendar:contact"/>
+  </folder>
+  <folder name="images">
+    <file name="img_4978.jpg" crc="4082337736" seo="true" ref="index:media">
+      <caption webpage="index" alt=""/>
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:about-us:media:contact"/>
+    <file name="loading.gif" crc="3815509949" ref="index:about-us:media:contact"/>
+    <file name="cb quizbowl logo.png" crc="3958390927" seo="true" ref="index:about-us:media:quizbowl:how-to-play:tips-and-tricks:links:updates:calendar:contact">
+      <caption webpage="how-to-play" alt=""/>
+      <caption webpage="links" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="updates" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="quizbowl" alt=""/>
+      <caption webpage="tips-and-tricks" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="img_4981541x360.jpg" crc="4112090095" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="img_4242-crop-u2943.jpg" crc="4212091504" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="img_4247.jpg" crc="39543341" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="img_4981.jpg" crc="4061036799" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="img_4982.jpg" crc="3996419618" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="img_497868x45.jpg" crc="3975979132" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="img_4242-crop-u2951.jpg" crc="87795903" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="img_424760x45.jpg" crc="119220908" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="img_498168x45.jpg" crc="4246622493" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="img_498268x45.jpg" crc="4040835514" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="img_4982541x360.jpg" crc="506092967" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3976741800" seo="true" mt="1519238241982" redirect="true"/>
+  <file name="about-us.html" crc="292145535" seo="true" mt="1519238545859" redirect="true"/>
+  <file name="media.html" crc="70706588" seo="true" mt="1519238316607" redirect="true"/>
+  <file name="quizbowl.html" crc="106935517" seo="true" mt="1519238241982" redirect="true"/>
+  <file name="how-to-play.html" crc="66611647" seo="true" mt="1519238241982" redirect="true"/>
+  <file name="tips-and-tricks.html" crc="4144057871" seo="true" mt="1519238241982" redirect="true"/>
+  <file name="links.html" crc="4084509893" seo="true" mt="1519238241982" redirect="true"/>
+  <file name="updates.html" crc="190377621" seo="true" mt="1519238241982" redirect="true"/>
+  <file name="calendar.html" crc="394280788" seo="true" mt="1519238241982" redirect="true"/>
+  <file name="contact.html" crc="279532942" seo="true" mt="1519238241982" redirect="true"/>
+</manifest>
